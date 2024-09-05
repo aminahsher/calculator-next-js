@@ -8,6 +8,7 @@ const Home: React.FC = () => {
       <h1 className="flex justify-center font-bold text-3xl text-gray-100  p-3 rounded-lg shadow-lg my-6">
   Scientific Calculator
 </h1>
+<p className='font-bold'>by Aminah</p>
 
       <ScientificCalculator />
     </div>
